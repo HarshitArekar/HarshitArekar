@@ -12,8 +12,7 @@
 * 🌐 Building Networking Fundamentals
 * 🔧 Practicing Git & GitHub daily
 * 📚 Following a 90 Days DevOps Challenge
-* 🚀 Open to Entry-Level Cloud & DevOps Opportunities
-
+  
 ## 🛠️ Tech Stack
 
 * AWS
@@ -23,12 +22,10 @@
 
 ## 📖 Currently Learning
 
-* AWS EC2
+* AWS 
 * VPC Networking
 * Linux Commands
-* Git & GitHub
   
-
 ## 📂 Featured Projects
 
 * 90-Days-DevOps-Challenge
@@ -38,6 +35,7 @@
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/harshit-arekar-devops-master
+* gmail : arekarharshit61@gmail.com
 
 
 
