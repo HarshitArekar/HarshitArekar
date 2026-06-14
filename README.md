@@ -19,6 +19,7 @@
 * Linux
 * Git & GitHub
 * Networking
+* Shell Script
 
 ## 📖 Currently Learning
 
@@ -36,6 +37,7 @@
 
 * LinkedIn: www.linkedin.com/in/harshit-arekar-devops-master
 * gmail : arekarharshit61@gmail.com
+  
 
 
 
